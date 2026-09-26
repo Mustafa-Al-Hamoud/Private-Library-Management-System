@@ -92,6 +92,15 @@ The application provides the following main features:
 
 ### 🔄 Loan Management
 
+- Create new loans
+- Check copy availability before borrowing
+- Check the friend's current active loans
+- Display open and completed loans
+- Finish active loans
+- Set the returned copy status to `Available` or `Lost`
+- Track loan and due dates
+- Handle borrowing confirmations when additional attention is required
+
 ---
 
 # Project Workflow
@@ -119,7 +128,7 @@ Library Data
   ├── Friends
   └── Loans
 ---
-
+```
 # Dashboard
 
 The application includes an interactive dashboard that provides an overview of the private library and its activity.
