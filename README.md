@@ -39,3 +39,19 @@ The main challenges include:
 - Maintaining an overview of the library through useful statistics
 
 The goal of this project was to replace manual tracking with a simple digital system that centralizes the library information and makes everyday library management easier.
+
+---
+
+# Project Objectives
+
+The main objectives of the project are:
+
+- Digitize the management of a private library
+- Manage books and individual book copies
+- Manage friends and their borrowing information
+- Create and manage book loans
+- Track open and completed loans
+- Monitor due dates and overdue loans
+- Provide useful statistics through an interactive dashboard
+- Store and manage library data using a MySQL database
+- Provide a simple and user-friendly web interface
