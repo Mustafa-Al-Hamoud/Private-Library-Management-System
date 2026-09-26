@@ -192,3 +192,37 @@ The database consists of four main tables: `books`, `copies`, `friends`, and `lo
 <p align="center">
 <img src="lianes_lib/images/database_schema.png" width="85%">
 </p>
+
+---
+
+# Application Screenshots
+
+## Dashboard
+
+<p align="center">
+<img src="images/dashboard.png" width="95%">
+</p>
+
+---
+
+## Books
+
+<p align="center">
+<img src="images/books.png" width="95%">
+</p>
+
+---
+
+## Friends
+
+<p align="center">
+<img src="images/friends.png" width="95%">
+</p>
+
+---
+
+## Loans
+
+<p align="center">
+<img src="images/loans.png" width="95%">
+</p>
