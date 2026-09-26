@@ -204,8 +204,6 @@ The database consists of four main tables: `books`, `copies`, `friends`, and `lo
 </p>
 <p align="center">
 <img src="lianes_lib/images/dashboard/dashboard2.png" width="40%">
-</p>
-<p align="center">
 <img src="lianes_lib/images/dashboard/dashboard3.png" width="40%">
 </p>
 ---
