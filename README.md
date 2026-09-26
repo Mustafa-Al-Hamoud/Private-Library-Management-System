@@ -208,13 +208,45 @@ The database consists of four main tables: `books`, `copies`, `friends`, and `lo
 </p>
 ---
 
+---
+
 ## Books
 
+The Books section provides a visual overview of the library's books and physical copies.
+
+### Book Overview and Filtering
+
+The main Books page displays books as cards and provides filters for author, title, genre, and copy status.
+
 <p align="center">
-<img src="images/books.png" width="95%">
+<img src="images/books/books_overview.png" width="95%">
+</p>
+
+Users can browse the available books, view key information, and navigate through multiple pages of results.
+
+---
+
+### Book Information and Management
+
+Each book card displays information such as the title, author, genre, copy status, and purchase price. Users can also update or delete individual copies.
+
+<p align="center">
+<img src="images/books/books_cards.png" width="95%">
 </p>
 
 ---
+
+### Adding and Editing Books
+
+The application provides forms for adding new books and managing their copies. Users can enter the book information, select the copy status, define the publication year and price, and specify the number of copies.
+
+<p align="center">
+<img src="images/books/add_book.png" width="95%">
+</p>
+
+<p align="center">
+<img src="images/books/edit_book.png" width="48%">
+</p>
 
 ## Friends
 
