@@ -58,6 +58,32 @@ The main objectives of the project are:
 
 ---
 
+# Project Workflow
+
+The application follows a layered workflow that connects the user interface, application logic, and database:
+
+```text
+User
+  │
+  ▼
+Streamlit Interface
+  │
+  ▼
+Python Application Logic
+  │
+  ▼
+SQLAlchemy
+  │
+  ▼
+MySQL Database
+  │
+  ▼
+Library Data
+  ├── Books & Copies
+  ├── Friends
+  └── Loans
+---
+
 # Key Features
 
 The application provides the following main features:
