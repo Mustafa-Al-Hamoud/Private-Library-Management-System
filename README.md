@@ -286,8 +286,40 @@ Existing friend records can be updated through the edit form. The owner can modi
 <img src="lianes_lib/images/frends/edit_friend.png" width="48%">
 </p>
 
-## Loans
+---
+
+## Borrowing / Loans
+
+The Borrowing section manages the lending process between the private library and its friends.
+
+### Borrowing Overview
+
+The main Borrowing page displays both open and completed loans. Users can filter loans by friend, loan type, and book.
 
 <p align="center">
-<img src="images/loans.png" width="95%">
+<img src="lianes_lib/images/loans/borrowing_overview.png" width="95%">
+</p>
+
+Each loan card shows the book, physical copy, borrower, loan date, due date, loan status, and return information when applicable. Open loans can be updated to finish the borrowing process.
+
+---
+
+### Creating a New Borrowing
+
+A new borrowing can be created by selecting a friend and an available book copy.
+
+<p align="center">
+<img src="lianes_lib/images/loans/add_borrowing.png" width="95%">
+</p>
+
+The system only presents available copies for a new borrowing.
+
+---
+
+### Finishing a Borrowing
+
+Open borrowings can be updated when a book is returned. The library owner can select the resulting copy status and finish the loan.
+
+<p align="center">
+<img src="lianes_lib/images/loans/update_borrowing.png" width="48%">
 </p>
