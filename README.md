@@ -11,3 +11,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)
 
 </p>
+
+
+---
+
+# Project Overview
+
+This project is a private library management system developed with Python and Streamlit to help manage a personal library in a simple and organized way.
+
+The application was developed as a practical project for a friend named Lian, who needed a digital solution to manage her private library and keep track of books, book copies, friends, and loans.
+
+The system provides an interactive web interface connected to a MySQL database and supports the management of library data through different sections of the application.
