@@ -181,3 +181,13 @@ Private-Library-Management-System/
 │   │
 │   └── environment.yml
 └── README.md
+
+# Database Design
+
+The application uses a MySQL relational database to manage books, physical book copies, friends, and loans.
+
+The database consists of four main tables: `books`, `copies`, `friends`, and `loans`.
+
+<p align="center">
+<img src="images/database_schema.png" width="85%">
+</p>
