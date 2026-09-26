@@ -250,13 +250,41 @@ The application provides forms for adding new books and managing their copies. U
 <img src="lianes_lib/images/books/edit_book.png" width="48%">
 </p>
 
+---
+
 ## Friends
 
+The Friends section allows the library owner to manage people who borrow books from the private library.
+
+### Friends Overview and Search
+
+The main Friends page displays registered friends in individual cards and provides search and filtering options by first name, last name, and trust status.
+
 <p align="center">
-<img src="images/friends.png" width="95%">
+<img src="lians_lib/images/frends/friends_overview.png" width="95%">
+</p>
+
+Each friend card displays contact information, maximum allowed loans, trust status, and management actions.
+
+---
+
+### Adding a Friend
+
+The application provides a form for adding a new friend. The form includes personal and contact information, maximum loans, trust status, and optional notes.
+
+<p align="center">
+<img src="lians_lib/images/frends/add_friend.png" width="95%">
 </p>
 
 ---
+
+### Editing Friend Information
+
+Existing friend records can be updated through the edit form. The owner can modify contact details, maximum loans, trust status, and notes.
+
+<p align="center">
+<img src="lians_lib/images/frends/edit_friend.png" width="48%">
+</p>
 
 ## Loans
 
