@@ -146,3 +146,38 @@ The dashboard includes:
 - Top 5 most frequently borrowed authors
 
 Date filters allow the user to analyze loan activity and library spending over a selected period.
+
+
+---
+
+# Repository Structure
+
+```text
+Private-Library-Management-System/
+│
+├── lianes_lib/
+│   │
+│   ├── data/
+│   │   └── lianes_library_schema_demo_data.sql
+│   │
+│   ├── images/
+│   │
+│   ├── src/
+│   │   ├── home.py
+│   │   ├── connection_string.py
+│   │   ├── read_books.py
+│   │   ├── insert_books.py
+│   │   ├── insert_copies.py
+│   │   ├── update_copies.py
+│   │   ├── delete_copies.py
+│   │   ├── read_friends.py
+│   │   ├── insert_friends.py
+│   │   ├── update_friends.py
+│   │   ├── delete_friends.py
+│   │   ├── read_loans.py
+│   │   ├── insert_loans.py
+│   │   ├── update_loans.py
+│   │   └── dashboard_stats.py
+│   │
+│   └── environment.yml
+└── README.md
