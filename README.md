@@ -22,3 +22,20 @@ This project is a private library management system developed with Python and St
 The application was developed as a practical project for a friend named Lian, who needed a digital solution to manage her private library and keep track of books, book copies, friends, and loans.
 
 The system provides an interactive web interface connected to a MySQL database and supports the management of library data through different sections of the application.
+
+---
+
+# Problem / Motivation
+
+Managing a private library with a growing number of books and loans can become difficult when information is tracked manually.
+
+The main challenges include:
+
+- Keeping track of books and individual book copies
+- Knowing which copies are currently available or borrowed
+- Managing friends who borrow books
+- Tracking active and completed loans
+- Monitoring due dates and overdue loans
+- Maintaining an overview of the library through useful statistics
+
+The goal of this project was to replace manual tracking with a simple digital system that centralizes the library information and makes everyday library management easier.
