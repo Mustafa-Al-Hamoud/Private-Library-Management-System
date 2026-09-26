@@ -323,3 +323,36 @@ Open borrowings can be updated when a book is returned. The library owner can se
 <p align="center">
 <img src="lianes_lib/images/loans/update_borrowing.png" width="48%">
 </p>
+
+
+---
+
+# Business Rules and Constraints
+
+The application includes several business rules to protect the consistency of the library data and guide the library owner during daily operations.
+
+### Book and Copy Management
+
+- A book can have multiple physical copies.
+- Each physical copy has its own status and purchase information.
+- A copy cannot be deleted if it has loan history.
+- If the deleted copy is the last physical copy of a book, the associated book record can also be removed.
+
+### Friend Management
+
+- A friend cannot be deleted if they have any borrowing history.
+- Each friend has a configurable maximum number of active loans.
+- The maximum loan value is used as a warning threshold. The final decision to allow an additional borrowing remains with the library owner.
+
+### Borrowing Management
+
+- Only copies with the `Available` status can be selected for a new borrowing.
+- A borrowing records the friend, physical copy, loan date, and due date.
+- Open borrowings can be completed by the library owner.
+- When completing a borrowing, the owner can choose the resulting copy status, such as `Available` or `Lost`.
+
+### Trust Management
+
+- Friends can be marked as trusted or untrusted.
+- If an untrusted friend is selected for a borrowing, the application displays a warning and asks the library owner for confirmation.
+- The application does not automatically make the final decision on exceptional cases; the library owner remains in control.
