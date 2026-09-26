@@ -356,3 +356,80 @@ The application includes several business rules to protect the consistency of th
 - Friends can be marked as trusted or untrusted.
 - If an untrusted friend is selected for a borrowing, the application displays a warning and asks the library owner for confirmation.
 - The application does not automatically make the final decision on exceptional cases; the library owner remains in control.
+
+# Technologies
+
+This project was developed using:
+
+- Python
+- Streamlit
+- MySQL
+- SQLAlchemy
+- Pandas
+- Matplotlib
+- Git
+- GitHub
+
+  # Skills Demonstrated
+
+Throughout this project, the following technical and software development skills were applied:
+
+- Python Application Development
+- Streamlit Web Application Development
+- Relational Database Design
+- MySQL Database Management
+- SQL Querying
+- SQLAlchemy ORM
+- CRUD Operations
+- Database Relationships and Foreign Keys
+- Transaction Management
+- Data Validation and Business Rules
+- Pandas Data Processing
+- Data Visualization
+- Interactive Dashboard Development
+- Git Version Control
+- GitHub Documentation
+
+  # Future Improvements
+
+Potential future enhancements include:
+
+- Deploy the application to a cloud platform.
+- Add user authentication and role-based access control.
+- Add automated database backups.
+- Improve book cover management and image handling.
+- Add notifications for overdue loans.
+- Add more detailed library statistics and reports.
+- Add export functionality for library data.
+- Improve mobile responsiveness.
+
+  # Project Highlights
+
+✔ Full-stack Python application with Streamlit
+
+✔ Relational MySQL database integration
+
+✔ Complete CRUD operations for books, copies, friends, and loans
+
+✔ Business rules for data consistency and library management
+
+✔ Interactive dashboard with statistics and visualizations
+
+✔ Search, filtering, and pagination
+
+✔ Transaction-based database operations
+
+✔ Professional GitHub documentation
+
+# Author
+
+**Mustafa Al Hamoud**
+
+IT Engineer | Data Analytics & AI Enthusiast
+
+GitHub: https://github.com/Mustafa-Al-Hamoud
+
+
+---
+
+⭐ **If you found this project interesting, feel free to give it a star on GitHub!**
