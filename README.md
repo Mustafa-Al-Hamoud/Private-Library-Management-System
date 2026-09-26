@@ -200,7 +200,7 @@ The database consists of four main tables: `books`, `copies`, `friends`, and `lo
 ## Dashboard
 
 <p align="center">
-<img src="images/dashboard.png" width="95%">
+<img src="images/dashboard/dashboard1.png" width="95%">
 </p>
 
 ---
