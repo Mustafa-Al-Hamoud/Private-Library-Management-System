@@ -118,3 +118,22 @@ Library Data
   ├── Books & Copies
   ├── Friends
   └── Loans
+---
+
+# Dashboard
+
+The application includes an interactive dashboard that provides an overview of the private library and its activity.
+
+The dashboard includes:
+
+- Total number of books and book copies
+- Book copy status distribution
+- Monthly loan activity
+- Monthly library spending
+- Currently open loans
+- Due dates and remaining days for open loans
+- Top 5 most frequently borrowed books
+- Top 5 friends with the most loans
+- Top 5 most frequently borrowed authors
+
+Date filters allow the user to analyze loan activity and library spending over a selected period.
