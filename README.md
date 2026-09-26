@@ -125,3 +125,11 @@ Library Data
 - Set the returned copy status to `Available` or `Lost`
 - Track loan and due dates
 - Handle borrowing confirmations when additional attention is required
+
+The user interacts with the application through the Streamlit interface.
+
+Python handles the application logic and communicates with the MySQL database through SQLAlchemy.
+
+The MySQL database stores the library data, including books, book copies, friends, and loans.
+
+The application retrieves and updates the stored data based on the user's actions and presents the results through the Streamlit interface.
