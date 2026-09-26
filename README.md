@@ -181,6 +181,7 @@ Private-Library-Management-System/
 │   │
 │   └── environment.yml
 └── README.md
+```
 
 # Database Design
 
