@@ -55,3 +55,47 @@ The main objectives of the project are:
 - Provide useful statistics through an interactive dashboard
 - Store and manage library data using a MySQL database
 - Provide a simple and user-friendly web interface
+
+---
+
+# Key Features
+
+The application provides the following main features:
+
+### 📊 Dashboard
+
+- Display key library statistics
+- Show monthly loan activity
+- Show monthly library spending
+- Display all currently open loans
+- Highlight overdue and upcoming due dates
+- Show the most frequently borrowed books, friends, and authors
+
+### 📚 Book Management
+
+- Add new books and book copies
+- Edit book and copy information
+- Delete book copies
+- Track copy status
+- Search and filter books
+- Manage multiple copies of the same book
+
+### 👥 Friend Management
+
+- Add new friends
+- Edit friend information
+- Delete friends when allowed
+- Define the maximum number of active loans
+- Mark friends as trusted or untrusted
+- Search and filter friends
+
+### 🔄 Loan Management
+
+- Create new loans
+- Check copy availability before borrowing
+- Check the friend's current active loans
+- Display open and completed loans
+- Finish active loans
+- Set the returned copy status to `Available` or `Lost`
+- Track loan and due dates
+- Handle borrowing confirmations when additional attention is required
