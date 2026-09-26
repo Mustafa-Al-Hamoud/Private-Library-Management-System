@@ -219,7 +219,9 @@ The Books section provides a visual overview of the library's books and physical
 The main Books page displays books as cards and provides filters for author, title, genre, and copy status.
 
 <p align="center">
-<img src="lianes_lib/images/books/books_overview.png" width="95%">
+<img src="lianes_lib/images/books/books_overview.png" width="45%">
+<img src="lianes_lib/images/books/book.png" width="45%">
+  
 </p>
 
 Users can browse the available books, view key information, and navigate through multiple pages of results.
